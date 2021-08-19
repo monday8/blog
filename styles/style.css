@@ -1,0 +1,27 @@
+.title{
+    display: flex;
+    justify-content: center;
+
+}
+.title-text{
+    font-size: 30px;
+    
+}
+.Info_li{
+    font-weight: bolder;
+    font-size: 20px;
+    list-style: none;
+}
+.Info_li_text{
+    list-style-type: disc;
+    font-weight: bold;
+    font-family: Microsoft JhengHei;
+    font-size: 15px;
+}
+/*
+    //flex 需先 display: flex;才可使用
+    //flex 垂直置中
+    align-items:center; 
+    //flex 水平置中
+    justify-content: center;
+*/
