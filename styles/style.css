@@ -3,6 +3,10 @@
     justify-content: center;
 
 }
+.container{
+    margin:0 auto;
+    width: 600px;
+}
 .title-text{
     font-size: 30px;
     
@@ -17,10 +21,6 @@
     font-weight: bold;
     font-family: Microsoft JhengHei;
     font-size: 15px;
-}
-.container{
-    margin:0 auto;
-    width: 600px;
 }
 /*
     //flex 需先 display: flex;才可使用
